@@ -1,0 +1,22 @@
+#box1 {
+  width: 100px;
+  height: 100px;
+  background-color: cornflowerblue;
+  position: absolute;
+}
+
+#box2 {
+  width: 100px;
+  height: 100px;
+  background-color: darkorange;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+#img1{
+  width: 200px;
+  height: 200px;
+  position:absolute;
+  left: 300px;
+  top:350px;
+}
